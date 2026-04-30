@@ -29,4 +29,4 @@ blurView.contentView.addSubview(titleLabel)
 
 ## 安装
 
-复制 `BlurView.swift` 到你的项目中。
+复制 `SJBlurEffectView.swift` 到你的项目中。
