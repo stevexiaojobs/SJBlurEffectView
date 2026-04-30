@@ -1,6 +1,5 @@
 # SJBlurEffectView
-一个可自定义模糊半径的 `UIVisualEffectView` 子类。
-系统的 `UIBlurEffect` 只提供固定档位的模糊强度，`BlurView` 通过 `UIViewPropertyAnimator` 实现 0～1 之间任意模糊程度的连续控制。
+一个可自定义模糊半径的 `UIVisualEffectView` 子类。系统的 `UIBlurEffect` 只提供固定档位的模糊强度，`BlurView` 通过 `UIViewPropertyAnimator` 实现 0～1 之间任意模糊程度的连续控制。
 
 ## 特性
 
